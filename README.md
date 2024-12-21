@@ -1,18 +1,18 @@
-First teachings of learning Python in the Software Engineering Foundations Bootcamp at Stony Brook University.
+First lesson inlearning Python in the Software Engineering Foundations Bootcamp at Stony Brook University.
 
-To run Python you need to install python3 and ipython
-First install Python: https://www.python.org/downloads/
-Then in the Terminal run $ pip3 install ipython
+- To run Python you need to install python3 and ipython
+- First install Python: https://www.python.org/downloads/
+- Then in the Terminal run $ pip3 install ipython
 
 _________________________________________________
-To run programs you need to be in the Terminal and write ipython
-This should open you in ipython
-To open a file, write the following:
-    %run an7.py
-This will open the file any7.py
-From there you can run the functions written in the code.
-    any7([1, 2, 7, 4, 5])
-    will give you: "should be true" as defined in the code.
+- To run programs you need to be in the Terminal and write ipython
+- This should open you in ipython
+- To open a file, write the following:
+    - %run an7.py
+- This will open the file any7.py
+- From there you can run the functions written in the code.
+    - any7([1, 2, 7, 4, 5])
+    - will give you: "should be true" as defined in the code.
 
 ____________________________________________________
 After running a file, you can also specify which function to run if there are multiple functions in the program.
